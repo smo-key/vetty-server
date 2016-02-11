@@ -1,3 +1,9 @@
+#Gulp
+dist
+
+#Bower and Components
+lib
+
 # Logs
 logs
 *.log

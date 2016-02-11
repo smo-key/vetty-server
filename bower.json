@@ -1,0 +1,26 @@
+{
+  "name": "vetty-server",
+  "description": "Vetty Secure Lock: Vet your visitors!",
+  "main": "index.js",
+  "authors": [
+    "Arthur Pachachura"
+  ],
+  "license": "GPL-3.0",
+  "homepage": "https://github.com/smo-key/vetty-server",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.5.0",
+    "jquery": "^2.2.0",
+    "bootstrap": "^3.3.6"
+  }
+}
